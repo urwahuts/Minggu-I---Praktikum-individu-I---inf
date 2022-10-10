@@ -1,4 +1,4 @@
-# inggu-I---Praktikum-individu-I---inf
+# Minggu-I---Praktikum-individu-I---inf
 
 Buatlah tutorial penginstallan RapidMiner Studio.
 
